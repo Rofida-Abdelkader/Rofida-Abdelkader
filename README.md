@@ -1,13 +1,20 @@
 <h1 align="center">
   Hi, I'm Rofida AbdElkader
-  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="Hand wave" width="50" style="vertical-align: middle;" />
+  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="Hand wave" width="40" style="vertical-align: middle;" />
 </h1>
 
-<h3 align="center">Front-end Developer</h3>
+<h2 align="center">Front-end Developer</h2>
 
-<p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="400" />
-</p>
+</br>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="400" height="350" style="vertical-align: middle;" />
+
+</br>
+
+
+- 👨‍💻 I'm Software Development Engineer 
+- :school: I `Fresh graduated` from the Faculty of Computers & Informatics at Minia University in 2024
+</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +28,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rofida_abdelkader" height="30" width="40" />
   </a>
 </p>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,6 +51,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+
+</br>
+</br>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rofida-abdelkader" alt="rofida-abdelkader" />
