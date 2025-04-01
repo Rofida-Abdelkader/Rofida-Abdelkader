@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi, I'm Rofida AbdeElkader
+  Hi, I'm Rofida AbdElkader
   <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="Hand wave" width="50" style="vertical-align: middle;" />
 </h1>
 
 <h3 align="center">Front-end Developer</h3>
 
 <p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="500" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="400" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
