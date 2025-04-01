@@ -11,7 +11,7 @@
 </br>
 
 
-- 👨‍💻 I'm Software Development Engineer 
+- 👨‍💻 I'm Software Engineer 
 - :school: I `Fresh graduated` from the Faculty of Computers & Informatics at Minia University in 2024
 </br>
 
