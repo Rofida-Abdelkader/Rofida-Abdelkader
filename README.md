@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="Hand wave" width="40" style="vertical-align: middle;" />
 </h1>
 
-<h2 align="center">Front-end Developer</h2>
+<h2 align="center">Front-end Developer 👩‍💻</h2>
 
 </br>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="400" height="350" style="vertical-align: middle;" />
@@ -11,7 +11,7 @@
 </br>
 
 
-- 👨‍💻 I'm Software Engineer 
+- 👩‍💻 I'm Software Engineer 
 - :school: I `Fresh graduated` from the Faculty of Computers & Information at Minia University in 2024
 </br>
 
