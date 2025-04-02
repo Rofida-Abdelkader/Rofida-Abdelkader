@@ -12,7 +12,7 @@
 
 
 - 👨‍💻 I'm Software Engineer 
-- :school: I `Fresh graduated` from the Faculty of Computers & Informatics at Minia University in 2024
+- :school: I `Fresh graduated` from the Faculty of Computers & Information at Minia University in 2024
 </br>
 
 
