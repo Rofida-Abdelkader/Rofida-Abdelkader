@@ -4,9 +4,9 @@
 </h1>
 
 <h2 align="center">Front-end Developer 👩‍💻</h2>
-
+//https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
 </br>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWx3cnhrazhrb2x5dW9ta3lyODVzZ3BrdWlxMXI3eW1wcGNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Person working on code" width="400" height="350" style="vertical-align: middle;" />
+<img align="right" src="https://tenor.com/oUJkcewcJp7.gif" alt="Person working on code" width="400" height="350" style="vertical-align: middle;" />
 
 </br>
 
