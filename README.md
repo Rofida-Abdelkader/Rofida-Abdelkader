@@ -1,10 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hi, I'm Rofida AbdElkader
-  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="Hand wave" width="40" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Rofida+AbdeElkader;Front-End+Developer" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">Front-End Developer 👩‍💻 | Creative Thinker | Code Lover</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF">
