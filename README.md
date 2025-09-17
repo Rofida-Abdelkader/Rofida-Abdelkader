@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Rofida+AbdElkader;Front-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Rofida+AbdElkader;Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 👩‍💻 About Me
 
 - 👩‍💻 I'm Software Engineer  
-- 🎓 I `Fresh graduated` from the Faculty of Computers & Information at Minia University in 2024
+- 🎓 I `graduated` from the Faculty of Computers & Information at Minia University in 2024
 
 ---
 
@@ -40,6 +40,22 @@
 
 ---
 
+🔥 LeetCode Stats & Streaks
+<div align="center">
+  <!-- Main LeetCode Stats Card with Streak -->
+  <img src="https://leetcard.jacoblin.cool/Rofida_Abdelkader?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+<p align="center">
+  <!-- LeetCode Badge -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FRofida_Abdelkader&logo=leetcode&logoColor=yellow" alt="LeetCode user Rofida_Abdelkader"/>
+</p>
+<p align="center">
+  <!-- LeetCode Streak Badge -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Streak&query=currentStreak&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FRofida_Abdelkader&logo=leetcode&logoColor=yellow" alt="LeetCode Streak"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -49,8 +65,4 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
