@@ -45,14 +45,7 @@
   <!-- Main LeetCode Stats Card with Streak -->
   <img src="https://leetcard.jacoblin.cool/Rofida_Abdelkader?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
 </div>
-<p align="center">
-  <!-- LeetCode Badge -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FRofida_Abdelkader&logo=leetcode&logoColor=yellow" alt="LeetCode user Rofida_Abdelkader"/>
-</p>
-<p align="center">
-  <!-- LeetCode Streak Badge -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Streak&query=currentStreak&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2FRofida_Abdelkader&logo=leetcode&logoColor=yellow" alt="LeetCode Streak"/>
-</p>
+
 
 ---
 
