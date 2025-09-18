@@ -18,12 +18,10 @@
 
 ### 🔗 Connect with Me
 
-
-    <a href="mailto:rofidaabdelkader91@gmail.com" target="_blank">
+<p align="center">
+<a href="mailto:rofidaabdelkader91@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail">
 
-
-<p align="center">
   <a href="https://twitter.com/rofidaabdelkadr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
   </a>
