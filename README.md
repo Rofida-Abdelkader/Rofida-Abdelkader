@@ -16,11 +16,11 @@
 
 I'm a passionate **Software Engineer** specializing in front-end development and UI/UX design. I love creating intuitive, user-friendly applications that solve real-world problems.
 
-- 🎓 **Education**: Graduate from Faculty of Computers & Information, Minia University (2024)
-- 💻 **Focus**: Front-End Development, UI/UX Design, Problem Solving
-- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and modern web technologies
-- 🎯 **Goal**: Building impactful web applications that enhance user experiences
-- 📫 **Reach me at**: rofidaabdelkader91@gmail.com
+- 🎓 **Education**: Graduate from Faculty of Computers & Information, Minia University (2024).
+- 💻 **Focus**: Front-End Development, UI/UX Design.
+- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and modern web technologies.
+- 🎯 **Goal**: Building impactful web applications that enhance user experiences.
+- 📫 **Reach me at**: rofidaabdelkader91@gmail.com, rofidaabdelkader132001@gmail.com
 
 ---
 
@@ -47,7 +47,7 @@ I'm a passionate **Software Engineer** specializing in front-end development and
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
