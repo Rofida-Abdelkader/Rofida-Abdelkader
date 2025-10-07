@@ -6,9 +6,9 @@
   <h2>💻 Software Engineer | 🎨 UI/UX Designer | 🚀 Problem Solver</h2>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
-</div>
+</div> -->
 
 ---
 
