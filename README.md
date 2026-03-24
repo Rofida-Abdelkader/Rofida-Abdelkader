@@ -28,13 +28,6 @@ I'm a Software Engineer specializing in Frontend development and focused in Back
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rofida-Abdelkader&show_icons=true&theme=tokyonight" alt="Rofida's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofida-Abdelkader&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 <a href="https://linkedin.com/in/rofidaabdelkader"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -44,6 +37,13 @@ I'm a Software Engineer specializing in Frontend development and focused in Back
 Software Engineer | MEARN Stack Developer 
 I'm a passionate Software Engineer specializing in Frontend development and focused in Backend.
 
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rofida-Abdelkader&show_icons=true&theme=tokyonight" alt="Rofida's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofida-Abdelkader&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 ## Technical Skills
 ### Languages 
