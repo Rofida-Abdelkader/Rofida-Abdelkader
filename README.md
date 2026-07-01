@@ -20,9 +20,8 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
 <a href="https://portfolio-phi-seven-frcgnl6730.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rofidaabdelkader" target="_blank">
